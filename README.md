@@ -20,7 +20,7 @@ TensorBoard was used to visualise the results. Here is the epochs graph.
 
 ## Model architecture
 
-The model used to train this data consists of two hidden layers, excluding input and output.
+The model used to train this data consists of two hidden layers, input and output.
 Each hidden layers contains 64 nodes, after each layer it goes through batch normalization and dropout value of 20%.
 
 ![Model](static/model.png)
